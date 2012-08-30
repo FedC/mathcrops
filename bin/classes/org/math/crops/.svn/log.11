@@ -1,0 +1,46 @@
+<modify-entry
+   name="MatrixGrabber.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/MatrixGrabber.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/MatrixGrabber.class.svn-base"
+   name=".svn/tmp/prop-base/MatrixGrabber.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/MatrixGrabber.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="MatrixGrabber.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="MatrixGrabber.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="MatrixGrabber.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/MatrixGrabber.class"/>
+<modify-entry
+   name="MatrixGrabber.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="MatrixGrabber.class"
+   name=".svn/tmp/text-base/MatrixGrabber.class.svn-base"/>
+<mv
+   dest=".svn/text-base/MatrixGrabber.class.svn-base"
+   name=".svn/tmp/text-base/MatrixGrabber.class.svn-base"/>
+<readonly
+   name=".svn/text-base/MatrixGrabber.class.svn-base"/>
+<modify-entry
+   name="MatrixGrabber.class"
+   checksum="ca36f86c9bc1179beed11c58a4a3e866"/>
+<modify-entry
+   name="MatrixGrabber.class"
+   text-time="working"/>

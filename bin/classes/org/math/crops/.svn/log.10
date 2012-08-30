@@ -1,0 +1,46 @@
+<modify-entry
+   name="TextureLoader.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/TextureLoader.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/TextureLoader.class.svn-base"
+   name=".svn/tmp/prop-base/TextureLoader.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/TextureLoader.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="TextureLoader.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="TextureLoader.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="TextureLoader.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/TextureLoader.class"/>
+<modify-entry
+   name="TextureLoader.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="TextureLoader.class"
+   name=".svn/tmp/text-base/TextureLoader.class.svn-base"/>
+<mv
+   dest=".svn/text-base/TextureLoader.class.svn-base"
+   name=".svn/tmp/text-base/TextureLoader.class.svn-base"/>
+<readonly
+   name=".svn/text-base/TextureLoader.class.svn-base"/>
+<modify-entry
+   name="TextureLoader.class"
+   checksum="acd65fa1ae83955f59b68ad529422175"/>
+<modify-entry
+   name="TextureLoader.class"
+   text-time="working"/>

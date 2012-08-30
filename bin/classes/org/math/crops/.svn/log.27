@@ -1,0 +1,46 @@
+<modify-entry
+   name="Button$type.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/Button$type.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/Button$type.class.svn-base"
+   name=".svn/tmp/prop-base/Button$type.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/Button$type.class.svn-base"/>
+<modify-entry
+   committed-rev="4"
+   committed-date="2012-04-16T23:48:01.570314Z"
+   name="Button$type.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="Button$type.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="Button$type.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/4/trunk/bin/classes/org/math/crops/Button$type.class"/>
+<modify-entry
+   name="Button$type.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="Button$type.class"
+   name=".svn/tmp/text-base/Button$type.class.svn-base"/>
+<mv
+   dest=".svn/text-base/Button$type.class.svn-base"
+   name=".svn/tmp/text-base/Button$type.class.svn-base"/>
+<readonly
+   name=".svn/text-base/Button$type.class.svn-base"/>
+<modify-entry
+   name="Button$type.class"
+   checksum="3021a67e586b43ca0556accba1226e41"/>
+<modify-entry
+   name="Button$type.class"
+   text-time="working"/>

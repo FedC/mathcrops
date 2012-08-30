@@ -1,0 +1,88 @@
+8
+
+dir
+8
+https://mathcrops.googlecode.com/svn/trunk
+https://mathcrops.googlecode.com/svn
+
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+incomplete
+f13aada3-eac6-70dc-0781-7f7efdd9a8a8
+
+project.properties
+file
+
+
+
+
+2012-08-30T21:40:50.000000Z
+95d92a99f24277d3785a1f661cca5d49
+2012-04-07T22:27:26.695787Z
+2
+fdcommisso@gmail.com
+
+proguard.cfg
+file
+
+
+
+
+2012-08-30T21:40:50.000000Z
+03ea0fdd0a4aabc43b80216d64438921
+2012-04-07T22:27:26.695787Z
+2
+fdcommisso@gmail.com
+
+assets
+dir
+
+.project
+file
+
+
+
+
+2012-08-30T21:40:50.000000Z
+5f791f593c1c1b1a740c6b1b8ad7f2a4
+2012-04-07T22:27:26.695787Z
+2
+fdcommisso@gmail.com
+
+lib
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2012-08-30T21:40:50.000000Z
+396d085a39ab48c3dd2234e31572b09b
+2012-04-16T23:48:01.570314Z
+4
+fdcommisso@gmail.com
+
+src
+dir
+
+bin
+dir
+

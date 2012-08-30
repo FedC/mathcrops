@@ -1,0 +1,10 @@
+<modify-entry
+   committed-rev="4"
+   committed-date="2012-04-16T23:48:01.570314Z"
+   name=""
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/4/trunk/bin/classes/org/math/crops"/>

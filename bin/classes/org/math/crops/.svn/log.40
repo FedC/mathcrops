@@ -1,0 +1,46 @@
+<modify-entry
+   name="R$attr.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/R$attr.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/R$attr.class.svn-base"
+   name=".svn/tmp/prop-base/R$attr.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/R$attr.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="R$attr.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="R$attr.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="R$attr.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/R$attr.class"/>
+<modify-entry
+   name="R$attr.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="R$attr.class"
+   name=".svn/tmp/text-base/R$attr.class.svn-base"/>
+<mv
+   dest=".svn/text-base/R$attr.class.svn-base"
+   name=".svn/tmp/text-base/R$attr.class.svn-base"/>
+<readonly
+   name=".svn/text-base/R$attr.class.svn-base"/>
+<modify-entry
+   name="R$attr.class"
+   checksum="56b98d6f8475d031724831501ed990dc"/>
+<modify-entry
+   name="R$attr.class"
+   text-time="working"/>

@@ -1,0 +1,46 @@
+<modify-entry
+   name="Square.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/Square.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/Square.class.svn-base"
+   name=".svn/tmp/prop-base/Square.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/Square.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="Square.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="Square.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="Square.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/Square.class"/>
+<modify-entry
+   name="Square.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="Square.class"
+   name=".svn/tmp/text-base/Square.class.svn-base"/>
+<mv
+   dest=".svn/text-base/Square.class.svn-base"
+   name=".svn/tmp/text-base/Square.class.svn-base"/>
+<readonly
+   name=".svn/text-base/Square.class.svn-base"/>
+<modify-entry
+   name="Square.class"
+   checksum="600ca32df7d87c696f318d83c3fbc94d"/>
+<modify-entry
+   name="Square.class"
+   text-time="working"/>

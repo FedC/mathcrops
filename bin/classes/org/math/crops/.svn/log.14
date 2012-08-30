@@ -1,0 +1,46 @@
+<modify-entry
+   name="MatrixStack.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/MatrixStack.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/MatrixStack.class.svn-base"
+   name=".svn/tmp/prop-base/MatrixStack.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/MatrixStack.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="MatrixStack.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="MatrixStack.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="MatrixStack.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/MatrixStack.class"/>
+<modify-entry
+   name="MatrixStack.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="MatrixStack.class"
+   name=".svn/tmp/text-base/MatrixStack.class.svn-base"/>
+<mv
+   dest=".svn/text-base/MatrixStack.class.svn-base"
+   name=".svn/tmp/text-base/MatrixStack.class.svn-base"/>
+<readonly
+   name=".svn/text-base/MatrixStack.class.svn-base"/>
+<modify-entry
+   name="MatrixStack.class"
+   checksum="ae21af5f1d4eb5dd8d9fc5b2f46540e3"/>
+<modify-entry
+   name="MatrixStack.class"
+   text-time="working"/>

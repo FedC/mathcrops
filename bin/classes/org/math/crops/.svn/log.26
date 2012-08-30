@@ -1,0 +1,46 @@
+<modify-entry
+   name="TextFont.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/TextFont.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/TextFont.class.svn-base"
+   name=".svn/tmp/prop-base/TextFont.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/TextFont.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="TextFont.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="TextFont.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="TextFont.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/TextFont.class"/>
+<modify-entry
+   name="TextFont.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="TextFont.class"
+   name=".svn/tmp/text-base/TextFont.class.svn-base"/>
+<mv
+   dest=".svn/text-base/TextFont.class.svn-base"
+   name=".svn/tmp/text-base/TextFont.class.svn-base"/>
+<readonly
+   name=".svn/text-base/TextFont.class.svn-base"/>
+<modify-entry
+   name="TextFont.class"
+   checksum="031d117a9bf5a1a49c9d13e2bf8ac5ed"/>
+<modify-entry
+   name="TextFont.class"
+   text-time="working"/>

@@ -1,0 +1,46 @@
+<modify-entry
+   name="mathcrops.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/mathcrops.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/mathcrops.class.svn-base"
+   name=".svn/tmp/prop-base/mathcrops.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/mathcrops.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="mathcrops.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="mathcrops.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="mathcrops.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/mathcrops.class"/>
+<modify-entry
+   name="mathcrops.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="mathcrops.class"
+   name=".svn/tmp/text-base/mathcrops.class.svn-base"/>
+<mv
+   dest=".svn/text-base/mathcrops.class.svn-base"
+   name=".svn/tmp/text-base/mathcrops.class.svn-base"/>
+<readonly
+   name=".svn/text-base/mathcrops.class.svn-base"/>
+<modify-entry
+   name="mathcrops.class"
+   checksum="ce71dd1a608b5dfb8f3fc5d22adc17dd"/>
+<modify-entry
+   name="mathcrops.class"
+   text-time="working"/>

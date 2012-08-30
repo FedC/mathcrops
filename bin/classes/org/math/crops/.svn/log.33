@@ -1,0 +1,46 @@
+<modify-entry
+   name="GlRenderer.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/GlRenderer.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/GlRenderer.class.svn-base"
+   name=".svn/tmp/prop-base/GlRenderer.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/GlRenderer.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="GlRenderer.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="GlRenderer.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="GlRenderer.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/GlRenderer.class"/>
+<modify-entry
+   name="GlRenderer.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="GlRenderer.class"
+   name=".svn/tmp/text-base/GlRenderer.class.svn-base"/>
+<mv
+   dest=".svn/text-base/GlRenderer.class.svn-base"
+   name=".svn/tmp/text-base/GlRenderer.class.svn-base"/>
+<readonly
+   name=".svn/text-base/GlRenderer.class.svn-base"/>
+<modify-entry
+   name="GlRenderer.class"
+   checksum="0bf55e983ffce7589ad8f5a894234b7b"/>
+<modify-entry
+   name="GlRenderer.class"
+   text-time="working"/>

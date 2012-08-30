@@ -1,0 +1,46 @@
+<modify-entry
+   name="Unprojector.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/Unprojector.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/Unprojector.class.svn-base"
+   name=".svn/tmp/prop-base/Unprojector.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/Unprojector.class.svn-base"/>
+<modify-entry
+   committed-rev="4"
+   committed-date="2012-04-16T23:48:01.570314Z"
+   name="Unprojector.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="Unprojector.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="Unprojector.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/4/trunk/bin/classes/org/math/crops/Unprojector.class"/>
+<modify-entry
+   name="Unprojector.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="Unprojector.class"
+   name=".svn/tmp/text-base/Unprojector.class.svn-base"/>
+<mv
+   dest=".svn/text-base/Unprojector.class.svn-base"
+   name=".svn/tmp/text-base/Unprojector.class.svn-base"/>
+<readonly
+   name=".svn/text-base/Unprojector.class.svn-base"/>
+<modify-entry
+   name="Unprojector.class"
+   checksum="8c672f922b8316946838c4717bc1b145"/>
+<modify-entry
+   name="Unprojector.class"
+   text-time="working"/>

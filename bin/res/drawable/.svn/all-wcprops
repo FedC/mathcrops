@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/bin/res/drawable
+END
+background.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/bin/res/drawable/background.png
+END
+grade_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_1.png
+END
+grade_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_2.png
+END
+grade_3.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_3.png
+END
+grade_1_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_1_pressed.png
+END
+grade_2_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_2_pressed.png
+END
+grade_3_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/res/drawable/grade_3_pressed.png
+END

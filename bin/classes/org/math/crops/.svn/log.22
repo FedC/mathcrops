@@ -1,0 +1,46 @@
+<modify-entry
+   name="GameView.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/GameView.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/GameView.class.svn-base"
+   name=".svn/tmp/prop-base/GameView.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/GameView.class.svn-base"/>
+<modify-entry
+   committed-rev="4"
+   committed-date="2012-04-16T23:48:01.570314Z"
+   name="GameView.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="GameView.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="GameView.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/4/trunk/bin/classes/org/math/crops/GameView.class"/>
+<modify-entry
+   name="GameView.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="GameView.class"
+   name=".svn/tmp/text-base/GameView.class.svn-base"/>
+<mv
+   dest=".svn/text-base/GameView.class.svn-base"
+   name=".svn/tmp/text-base/GameView.class.svn-base"/>
+<readonly
+   name=".svn/text-base/GameView.class.svn-base"/>
+<modify-entry
+   name="GameView.class"
+   checksum="9cd9e6f7ddbba395180d0be47baf376a"/>
+<modify-entry
+   name="GameView.class"
+   text-time="working"/>

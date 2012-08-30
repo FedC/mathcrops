@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/src/org/math/crops
+END
+MathCrops.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/src/org/math/crops/MathCrops.java
+END
+GLRendererActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/src/org/math/crops/GLRendererActivity.java
+END
+MatrixGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/src/org/math/crops/MatrixGrabber.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/src/org/math/crops/MainMenu.java
+END
+MatrixStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/src/org/math/crops/MatrixStack.java
+END
+MatrixTrackingGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/src/org/math/crops/MatrixTrackingGL.java
+END
+TextFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/src/org/math/crops/TextFont.java
+END

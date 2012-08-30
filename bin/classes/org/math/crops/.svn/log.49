@@ -1,0 +1,46 @@
+<modify-entry
+   name="R$anim.class"
+   present-props=""
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   has-props="true"/>
+<rm
+   name=".svn/props/R$anim.class.svn-work"/>
+<mv
+   dest=".svn/prop-base/R$anim.class.svn-base"
+   name=".svn/tmp/prop-base/R$anim.class.svn-base"/>
+<readonly
+   name=".svn/prop-base/R$anim.class.svn-base"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2012-04-07T22:27:26.695787Z"
+   name="R$anim.class"
+   last-author="fdcommisso@gmail.com"
+   uuid="f13aada3-eac6-70dc-0781-7f7efdd9a8a8"/>
+<modify-entry
+   name="R$anim.class"
+   prop-time="working"/>
+<modify-wcprop
+   name="R$anim.class"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/2/trunk/bin/classes/org/math/crops/R$anim.class"/>
+<modify-entry
+   name="R$anim.class"
+   kind="file"
+   deleted="false"
+   absent="false"
+   revision="8"/>
+<cp-and-translate
+   dest="R$anim.class"
+   name=".svn/tmp/text-base/R$anim.class.svn-base"/>
+<mv
+   dest=".svn/text-base/R$anim.class.svn-base"
+   name=".svn/tmp/text-base/R$anim.class.svn-base"/>
+<readonly
+   name=".svn/text-base/R$anim.class.svn-base"/>
+<modify-entry
+   name="R$anim.class"
+   checksum="a4ddcd838244d968cd6cd5e10e08633a"/>
+<modify-entry
+   name="R$anim.class"
+   text-time="working"/>
